@@ -1,26 +1,25 @@
-# HTML-CSS-Estudos
+#JavaScript
 Repository for projects in HTML5/CSS3
 
+*JavaScript*
+This repository contains JavaScript projects. All projects are free to use and modify under the MIT license.
 
-*HTML5 e CSS3*
-Este repositório contém projetos de HTML5 e CSS3. Todos os projetos são livres para serem usados ​​e modificados sob a licença MIT.
+*Getting started*
+To get started, clone the repository to your computer:
 
-*Como começar*
-Para começar, clone o repositório para o seu computador:
+git clone https://github.com/[your username]/html5-css3.git
 
-git clone https://github.com/[seu nome de usuário]/html5-css3.git
+Then, open the project in your favorite code editor.
 
-Em seguida, abra o projeto no seu editor de código favorito.
+*Contributing*
+If you have any contributions to make, feel free to fork the repository and submit a pull request.
 
-*Contribuição*
-Se você tiver alguma contribuição para fazer, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
+*License*
+This repository is licensed under the MIT license. For more information, see the LICENSE file included in the repository.
 
-*Licença*
-Este repositório está licenciado sob a licença MIT. Para mais informações, consulte o arquivo LICENSE incluído no repositório.
+You can also add other information to your README, such as:
 
-Você também pode adicionar outras informações ao seu README, como:
-
-Uma lista de recursos incluídos no repositório
-Instruções sobre como usar os projetos
-Uma lista de pessoas que contribuíram para o repositório
-Um link para o seu site ou blog
+A list of resources included in the repository
+Instructions on how to use the projects
+A list of people who have contributed to the repository
+A link to your website or blog
